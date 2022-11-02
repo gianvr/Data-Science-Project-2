@@ -2,7 +2,7 @@
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-## **Objetivo**
+## **Descrição**
 
 O objetivo do projeto é prever se as chances de um paciente ter ataque cardíaco é alta ou baixa, em função de indicadores de doenças cardíacas, que são:
 
